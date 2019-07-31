@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/
+create-react-app).
+
+## Clicky Game
+
+In this intense memory game click on the squares to increase your score, but be careful because you wouldn't want to click the same square twice.
 
 ## Available Scripts
 
